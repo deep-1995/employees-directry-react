@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Jim",
+    "department": "Sales",
+    "location": "Sacramento, CA"
+  },
+  {
+    "id": 2,
+    "name": "Lea",
+    "department": "Management",
+    "location": "San Jose, CA"
+  },
+  {
+    "id": 3,
+    "name": "Jake",
+    "department": "Dev Ops",
+    "location": "Sacramento, CA"
+  },
+  {
+    "id": 4,
+    "name": "Adam",
+    "department": "Support",
+    "location": "Sacramento, CA"
+  },
+  {
+    "id": 5,
+    "name": "Kim",
+    "department": "Devepolment",
+    "location": "Winters, CA"
+  },
+  {
+    "id": 6,
+    "name": "Eoin",
+    "department": "Devepolment",
+    "location": "Inverness, CA"
+  },
+  {
+    "id": 7,
+    "name": "Dean",
+    "department": "Sales",
+    "location": "Sacramento, CA"
+  },
+  {
+    "id": 8,
+    "name": "Bobby",
+    "department": "Support",
+    "location": "San Jose, CA"
+  },
+  {
+    "id": 9,
+    "name": "Aoife",
+    "department": "Dev Ops",
+    "location": "Sacramento, CA"
+  },
+  {
+    "id": 10,
+    "name": "Ardal",
+    "department": "Support",
+    "location": "Sacramento, CA"
+  },
+  {
+    "id": 11,
+    "name": "Noot",
+    "department": "Development",
+    "location": "Winters, CA"
+  },
+  {
+    "id": 12,
+    "name": "Goop",
+    "department": "Development",
+    "location": "Inverness, CA"
+  }
+]

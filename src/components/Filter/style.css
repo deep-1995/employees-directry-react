@@ -1,0 +1,14 @@
+h3 {
+  text-align: center;
+  color: rgb(190, 190, 190);
+}
+.center-content {
+  align-content: center;
+  align-items: center;
+}
+button {
+  border: 0.1rem solid black;
+  border-radius: 1rem;
+  padding: 0.2rem 4rem;
+  margin: 1rem;
+}
